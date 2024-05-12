@@ -25,3 +25,4 @@ urlpatterns = [
     path('about/',views.about),
     path('',include('crud.urls'))
 ]
+
